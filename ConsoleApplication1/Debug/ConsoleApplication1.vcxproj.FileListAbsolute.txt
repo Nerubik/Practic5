@@ -1,0 +1,2 @@
+D:\Проекты Java\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\Проекты Java\ConsoleApplication1\Debug\ConsoleApplication1.pdb
