@@ -1,4 +1,4 @@
-package ru.mirea.inbo2;
+package ru.mirea.inbo2.stack;
 
 import java.util.Scanner;
 import java.util.Stack;
